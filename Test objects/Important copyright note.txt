@@ -2,9 +2,9 @@ The following test objects were taken from the EGAD training set [1].
 
 our naming	naming in [1]
 Amber		G10_3.obj
-Betty		M25_2.obj
-Dora        J14_2.obj
-Emilia	B09_2.obj
+Beryl		M25_2.obj
+Diamond     J14_2.obj
+Emerald	B09_2.obj
 
 
 
